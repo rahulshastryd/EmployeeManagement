@@ -1,0 +1,16 @@
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\bin\Debug\netcoreapp3.1\BuisnessContracts.deps.json
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\bin\Debug\netcoreapp3.1\BuisnessContracts.runtimeconfig.json
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\bin\Debug\netcoreapp3.1\BuisnessContracts.runtimeconfig.dev.json
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\bin\Debug\netcoreapp3.1\BuisnessContracts.dll
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\bin\Debug\netcoreapp3.1\BuisnessContracts.pdb
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\obj\Debug\netcoreapp3.1\BuisnessContracts.csproj.AssemblyReference.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\obj\Debug\netcoreapp3.1\BuisnessContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\obj\Debug\netcoreapp3.1\BuisnessContracts.AssemblyInfoInputs.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\obj\Debug\netcoreapp3.1\BuisnessContracts.AssemblyInfo.cs
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\obj\Debug\netcoreapp3.1\BuisnessContracts.csproj.CoreCompileInputs.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\obj\Debug\netcoreapp3.1\BuisnessContracts.dll
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\obj\Debug\netcoreapp3.1\BuisnessContracts.pdb
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\obj\Debug\netcoreapp3.1\BuisnessContracts.genruntimeconfig.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\bin\Debug\netcoreapp3.1\Models.dll
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\bin\Debug\netcoreapp3.1\Models.pdb
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\BuisnessContracts\obj\Debug\netcoreapp3.1\BuisnessContracts.csproj.CopyComplete

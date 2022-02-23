@@ -1,0 +1,16 @@
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\bin\Debug\netcoreapp3.1\DataAccessContracts.deps.json
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\bin\Debug\netcoreapp3.1\DataAccessContracts.runtimeconfig.json
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\bin\Debug\netcoreapp3.1\DataAccessContracts.runtimeconfig.dev.json
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\bin\Debug\netcoreapp3.1\DataAccessContracts.dll
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\bin\Debug\netcoreapp3.1\DataAccessContracts.pdb
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\obj\Debug\netcoreapp3.1\DataAccessContracts.csproj.AssemblyReference.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\obj\Debug\netcoreapp3.1\DataAccessContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\obj\Debug\netcoreapp3.1\DataAccessContracts.AssemblyInfoInputs.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\obj\Debug\netcoreapp3.1\DataAccessContracts.AssemblyInfo.cs
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\obj\Debug\netcoreapp3.1\DataAccessContracts.csproj.CoreCompileInputs.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\obj\Debug\netcoreapp3.1\DataAccessContracts.dll
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\obj\Debug\netcoreapp3.1\DataAccessContracts.pdb
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\obj\Debug\netcoreapp3.1\DataAccessContracts.genruntimeconfig.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\bin\Debug\netcoreapp3.1\Models.dll
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\bin\Debug\netcoreapp3.1\Models.pdb
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\DataAccessContracts\obj\Debug\netcoreapp3.1\DataAccessContracts.csproj.CopyComplete

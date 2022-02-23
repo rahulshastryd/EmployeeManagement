@@ -1,0 +1,13 @@
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.json
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.dev.json
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\obj\Debug\netcoreapp3.1\Models.pdb
+D:\AngularAndWebApi3Tier_Try2\api\WebAPI\Models\obj\Debug\netcoreapp3.1\Models.genruntimeconfig.cache
